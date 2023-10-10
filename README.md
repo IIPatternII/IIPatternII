@@ -58,18 +58,17 @@ The quickest way to reach me is through:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 ##### Other
+
+![NixOs](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
+![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
-![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=F0F0F0)
-![NixOs](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=flat&logo=lubuntu&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=flat&logo=centos&logoColor=F0F0F0)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
