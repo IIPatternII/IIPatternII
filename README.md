@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Robertino Martinez. Engineer, entrepreneur, and educator looking to make a living solving interesting problems while helping people.
+I'm Robertino Martinez. Engineer and entrepreneur looking to make a living solving interesting problems while helping people.
 I'm an educator at [IOG/IOHK](https://iog.io) and founder of several small companies.
 
 The quickest way to reach me is through: 
