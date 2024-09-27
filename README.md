@@ -7,9 +7,6 @@ The quickest way to reach me is through:
 <a href="https://twitter.com/_roberm_">
   <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/twitter.svg" />
 </a>
-<a href="mailto:hi@robertinomartinez.com">
-  <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/email.svg" />
-</a>
 </div>
 
 ### Programming-related technologies
